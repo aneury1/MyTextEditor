@@ -1,0 +1,2 @@
+- Create and Global Struct in order to create window for editor. done
+- Create and class that handle Configuration files.
